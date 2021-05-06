@@ -1,3 +1,4 @@
+# Tools Scan Bug XSS (Cross Site Scripting) & Payloads 
 # F.A.Q
 
 # ScreamingCobra
@@ -11,6 +12,17 @@
 # Running
 - chmod u+x *
 - ./interface.sh
+# Dependencies: html,httplib2,urllib2,mechanize,requests,termcolor
+
+# pip2 install html
+# pip2 install httplib2
+# pip2 install mechanize
+# pip2 install requests
+# pip2 install termcolor
+
+Notice:
+# Support python2
+# No support Python or python3
 
 # Screenshot
 <div align="center">
